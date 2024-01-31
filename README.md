@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning advanced penetration testing techniques and how technology can be leveraged to promote regenerative agriculture.
 - 💞️ I’m looking to collaborate on ideas that stretch what's possible in cybersecurity and technology.
 - 📫 How to reach me: q0lt@protonmail.com
-- 😄 Pronouns: he/hime
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: My trusty stead is a Buckskin Quater horse named Chance.
 
 <!---
