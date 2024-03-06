@@ -1,7 +1,6 @@
-- 👋 Howdy, I’m @Q0LT
-- 👀 I’m interested in cybersecurity, penetration testing, and technology utilization in regenerative agriculture and sustainability. 
-- 🌱 I’m currently learning advanced penetration testing techniques and how technology can be leveraged to promote regenerative agriculture.
-- 🤠 I’m looking to collaborate on ideas that stretch what's possible in cybersecurity and technology.
+- 👋 Howdy, I’m Q0LT
+- 👀 I’m interested in ethical hacking and technology utilization in regenerative agriculture and sustainability. 
+- 🤠 I’m currently learning advanced penetration testing techniques and how technology can be leveraged to promote regenerative agriculture.
 - 📫 How to reach me: q0lt@protonmail.com
 - ⚡ Fun fact: My trusty stead is a Buckskin Quater horse named Chance.
 
