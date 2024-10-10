@@ -1,8 +1,7 @@
-- 👋 Howdy, I’m Q0LT
-- 👀 I’m interested in ethical hacking and technology utilization in regenerative agriculture and sustainability. 
-- 🤠 I’m currently learning advanced penetration testing techniques and how technology can be leveraged to promote regenerative agriculture.
-- ⚡ Fun fact: My trusty stead is a Buckskin Quater horse named Chance.
-
+- 👋 Yo, I’m Q0LT (like Colt, but with more flair)
+- 👀 I’m into ethical hacking, tech, and making farms cool again.
+- 🤠 Currently knee-deep in penetration testing (and no, it’s not as sexy as it sounds).
+- ⚡ Fun fact: My horse Chance is like a cyberpunk stallion—fast, smart, and slightly rebellious.
 <!---
 Q0LT/Q0LT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
