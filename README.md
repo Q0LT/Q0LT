@@ -1,5 +1,5 @@
 - 👋 Yo, I’m Q0LT (like Colt, but with more flair)
-- 👀 I’m into ethical hacking, tech, and making farms cool again
+- 👀 I’m into tech, denim, and making farms cool again
 - 🤠 Currently knee-deep in penetration testing (and no, it’s not as sexy as it sounds)
 - ⚡ Fun fact: My horse Chance is like a cyberpunk stallion—fast, smart, and slightly rebellious
 <!---
